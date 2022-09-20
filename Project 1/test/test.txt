@@ -1,0 +1,10 @@
+./main in10.txt >actual.txt
+./main in21.txt >actual.txt
+./main input102.txt >actual.txt
+
+
+
+
+diff out10.txt actual.txt
+diff out11.txt actual.txt
+diff answer102.txt actual.txt

@@ -1,0 +1,200 @@
+{
+  "files": {
+    "Book.cpp": [
+      {
+        "id": "550515b2-3dc0-4575-a7e2-33c66ee219d2",
+        "line": 14,
+        "version": 72,
+        "index": 275
+      },
+      {
+        "id": "5e005ade-2801-4e58-8b8f-4f0d4181e44b",
+        "line": 18,
+        "version": 72,
+        "index": 344
+      },
+      {
+        "id": "cb916ea0-48b5-4f00-a9cf-f1a22bf0b436",
+        "line": 33,
+        "version": 72,
+        "index": 790
+      },
+      {
+        "id": "662a1b5a-2305-4ca0-82c5-6316b959cbc2",
+        "line": 48,
+        "version": 72,
+        "index": 1161
+      },
+      {
+        "id": "c749dbd2-b14c-441e-95a8-c9e81b152293",
+        "line": 52,
+        "version": 72,
+        "index": 1219
+      },
+      {
+        "id": "b63f1d80-bf43-41e1-8489-5ba519928d5f",
+        "line": 56,
+        "version": 72,
+        "index": 1279
+      },
+      {
+        "id": "d2b60712-6743-4b69-a182-cb41ceb0d0a9",
+        "line": 60,
+        "version": 72,
+        "index": 1337
+      },
+      {
+        "id": "86a96b40-ec76-4bb5-89ea-369a404fc5b3",
+        "line": 61,
+        "version": 72,
+        "index": 1387
+      },
+      {
+        "id": "365f1257-6593-4cc9-ba7a-443d216dcb50",
+        "line": 65,
+        "version": 72,
+        "index": 1439
+      },
+      {
+        "id": "1a116eb7-803e-41f2-acab-70819e8f1117",
+        "line": 69,
+        "version": 72,
+        "index": 1487
+      },
+      {
+        "id": "e4747518-9d80-4f09-988e-5998da54967d",
+        "line": 73,
+        "version": 72,
+        "index": 1535
+      },
+      {
+        "id": "d9bd4aae-ceef-4ecf-a505-ce48fafd1f0d",
+        "line": 76,
+        "version": 72,
+        "index": 1583
+      }
+    ],
+    "BookCreator.cpp": [
+      {
+        "id": "6eea2116-426c-4f02-ad35-2a5d76024fcf",
+        "line": 6,
+        "version": 48,
+        "index": 90
+      },
+      {
+        "id": "a7cca1e6-3a2a-4e11-a818-733a6e335f11",
+        "line": 14,
+        "version": 48,
+        "index": 284
+      },
+      {
+        "id": "b6859acb-f3aa-45c9-9398-075ab61f769e",
+        "line": 80,
+        "version": 48,
+        "index": 2496
+      },
+      {
+        "id": "190a815c-a42c-4a3e-9e3b-346ef9c814bd",
+        "line": 85,
+        "version": 48,
+        "index": 2586
+      },
+      {
+        "id": "b4f90ed4-3cc2-4137-97ea-aa2c06719907",
+        "line": 92,
+        "version": 48,
+        "index": 2774
+      },
+      {
+        "id": "79cf49f0-2ecc-4d90-a7ae-f13f40f46c3d",
+        "line": 96,
+        "version": 48,
+        "index": 2942
+      },
+      {
+        "id": "af24505b-f5dc-43c7-896a-86757b3aae17",
+        "line": 101,
+        "version": 48,
+        "index": 3084
+      },
+      {
+        "id": "79f8c5dd-4a02-4efd-a703-4a558fa78a75",
+        "line": 109,
+        "version": 48,
+        "index": 3290
+      }
+    ],
+    "BookListCreator.cpp": [
+      {
+        "id": "ec7f5c5d-bd0e-43b0-b932-e1e4ddc14a22",
+        "line": 10,
+        "version": 1,
+        "index": 176
+      }
+    ],
+    "Info.cpp": [
+      {
+        "id": "e82bbbdd-f0d0-4a23-8402-04f5e3c9a68f",
+        "line": 7,
+        "version": 1,
+        "index": 65
+      },
+      {
+        "id": "3d62b218-a46f-4279-98ab-859037f1f606",
+        "line": 12,
+        "version": 1,
+        "index": 177
+      },
+      {
+        "id": "b419f3a2-dbf4-474e-a67a-b9f4e7e2be2e",
+        "line": 29,
+        "version": 1,
+        "index": 541
+      },
+      {
+        "id": "ef874a9a-54cb-4d67-8365-cb6368ca5779",
+        "line": 50,
+        "version": 1,
+        "index": 953
+      },
+      {
+        "id": "b5985535-f772-47ac-9f6b-bbb1e9c4727d",
+        "line": 54,
+        "version": 1,
+        "index": 1006
+      }
+    ],
+    "Library.cpp": [
+      {
+        "id": "bd92304a-4e1f-4426-ac45-ce548c9b51ec",
+        "line": 7,
+        "version": 74,
+        "index": 107
+      },
+      {
+        "id": "12d7a7d1-0984-4f46-9d81-09c9c0430963",
+        "line": 12,
+        "version": 74,
+        "index": 237
+      },
+      {
+        "id": "73c5c99f-b537-4625-8f06-1d2f806c3e2f",
+        "line": 35,
+        "version": 74,
+        "index": 1129
+      },
+      {
+        "id": "eedaad76-b493-42ad-81e4-85ea8b28d977",
+        "line": 44,
+        "version": 74,
+        "index": 1444
+      },
+      {
+        "id": "667dcd54-e79a-4202-b6da-933f147b82d4",
+        "line": 59,
+        "version": 74,
+        "index": 2042
+      }
+    ]
+  }
+}

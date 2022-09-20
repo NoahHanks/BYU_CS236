@@ -1,0 +1,76 @@
+Books, Organized By Author
+	Lemony Snicket
+		A Series of Unfortunate Events: The Bad Beginning by Lemony Snicket
+		---
+		Number of books: 1
+		Number of pages: 100
+		Number of hours: 0
+
+	Michael J. Sullivan
+		Theft of Swords by Michael J. Sullivan
+		Rise of Empire by Michael J. Sullivan
+		Heir of Novron by Michael J. Sullivan
+		---
+		Number of books: 3
+		Number of pages: 100
+		Number of hours: 0
+
+	Pam Munoz Ryan
+		Echo by Pam Munoz Ryan
+		---
+		Number of books: 1
+		Number of pages: 100
+		Number of hours: 0
+
+	Patrick Rothfuss
+		The Name of the Wind by Patrick Rothfuss
+		---
+		Number of books: 1
+		Number of pages: 100
+		Number of hours: 0
+
+	Pseudonymous Bosch
+		The Name of this Book is Secret by Pseudonymous Bosch
+		---
+		Number of books: 1
+		Number of pages: 100
+		Number of hours: 0
+
+	Ransom Riggs
+		Miss Peregrine's Home for Peculiar Children by Ransom Riggs
+		---
+		Number of books: 1
+		Number of pages: 100
+		Number of hours: 0
+
+
+Books, Organized By Genre
+	fantasy
+		The Name of the Wind by Patrick Rothfuss
+		---
+		Number of books: 1
+		Number of pages: 100
+		Number of hours: 0
+
+	fiction
+		A Series of Unfortunate Events: The Bad Beginning by Lemony Snicket
+		---
+		Number of books: 1
+		Number of pages: 100
+		Number of hours: 0
+
+	historical fiction
+		Echo by Pam Munoz Ryan
+		---
+		Number of books: 1
+		Number of pages: 100
+		Number of hours: 0
+
+	uncategorized
+		Heir of Novron by Michael J. Sullivan
+		---
+		Number of books: 1
+		Number of pages: 100
+		Number of hours: 0
+
+

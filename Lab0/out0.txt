@@ -1,0 +1,46 @@
+Books, Organized By Author
+	Brandon Mull
+		Fablehaven by Brandon Mull
+		---
+		Number of books: 1
+		Number of pages: 3
+		Number of hours: 0
+
+	Harper Lee
+		To Kill a Mockingbird by Harper Lee
+		---
+		Number of books: 1
+		Number of pages: 2
+		Number of hours: 0
+
+	Madeleine L'Engle
+		A Wrinkle in Time by Madeleine L'Engle
+		---
+		Number of books: 1
+		Number of pages: 2
+		Number of hours: 0
+
+
+Books, Organized By Genre
+	fantasy
+		Fablehaven by Brandon Mull
+		---
+		Number of books: 1
+		Number of pages: 3
+		Number of hours: 0
+
+	historical fiction
+		To Kill a Mockingbird by Harper Lee
+		---
+		Number of books: 1
+		Number of pages: 2
+		Number of hours: 0
+
+	science fiction
+		A Wrinkle in Time by Madeleine L'Engle
+		---
+		Number of books: 1
+		Number of pages: 2
+		Number of hours: 0
+
+
